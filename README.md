@@ -67,7 +67,7 @@ People Archive 希望解决的就是这些问题。
 
 大模型、基础研究、AI 创业、AI 基础设施等领域的重要人物。
 
-→ [AI People](./domains/AI.md)
+→ [AI People](./domains/ai.md)
 
 ### Investing
 
@@ -107,7 +107,7 @@ people-archive/
 │   └── ...
 │
 ├── domains/
-│   ├── AI.md
+│   ├── ai.md
 │   ├── investing.md
 │   └── ...
 │
