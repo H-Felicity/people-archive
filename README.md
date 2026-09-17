@@ -67,7 +67,7 @@ People Archive 希望解决的就是这些问题。
 
 大模型、基础研究、AI 创业、AI 基础设施等领域的重要人物。
 
-→ [AI People](./domains/ai.md)
+→ [AI People](./domains/AI.md)
 
 ### Investing
 
@@ -85,6 +85,8 @@ People Archive 希望解决的就是这些问题。
 |---|---|---|
 | [杨植麟 / Zhilin Yang](./people/yang-zhilin.md) | AI · Entrepreneurship | Moonshot AI, Kimi, Transformer-XL, XLNet, Scaling |
 | [梁文锋 / Liang Wenfeng](./people/liang-wenfeng.md) | AI · Entrepreneurship | DeepSeek, Quant, Scaling, Open Source |
+| [闫俊杰 / Junjie Yan](./people/yan-junjie.md) | AI · Entrepreneurship | MiniMax, Multimodal, MoE, Linear Attention, Agent |
+| [张鹏 / Peng Zhang](./people/zhang-peng.md) | AI · Entrepreneurship | Z.AI, GLM, ChatGLM, Knowledge Graph, Agent |
 
 More coming.
 
@@ -100,10 +102,12 @@ people-archive/
 ├── people/
 │   ├── yang-zhilin.md
 │   ├── liang-wenfeng.md
+│   ├── yan-junjie.md
+│   ├── zhang-peng.md
 │   └── ...
 │
 ├── domains/
-│   ├── ai.md
+│   ├── AI.md
 │   ├── investing.md
 │   └── ...
 │
