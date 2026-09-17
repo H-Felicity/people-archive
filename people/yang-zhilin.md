@@ -20,6 +20,10 @@ ChatGPT 发布后，杨植麟判断大模型的资本、算力和人才条件已
 ---
 
 ## 时间线
+<details>
+<summary><strong>点击展开完整时间线（1992–2026）</strong></summary>
+
+<br>
 
 | 时间             | 事件                                                                                                                                       |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,7 +62,7 @@ ChatGPT 发布后，杨植麟判断大模型的资本、算力和人才条件已
 [11]: https://forum.moonshot.ai/t/an-update-on-new-k2-models-and-new-pricing/104?utm_source=chatgpt.com "An Update on New K2 Models and New Pricing - Announcement - Kimi Forum"
 [12]: https://forum.moonshot.ai/t/meet-kimi-k2-6-advancing-open-source-coding/369?utm_source=chatgpt.com "Meet Kimi K2.6: Advancing Open-Source Coding - Announcement - Kimi Forum"
 [13]: https://www.moonshot.ai/?utm_source=chatgpt.com "Moonshot AI"
-
+</details>
 
 ## 杨植麟本人访谈
 

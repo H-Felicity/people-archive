@@ -21,6 +21,10 @@
 ---
 
 ## 时间线
+<details>
+<summary><strong>点击展开完整时间线（1985–2026）</strong></summary>
+
+<br>
 
 | 时间 | 事件 |
 |---|---|
@@ -54,6 +58,7 @@
 | **2026.09** | 发布 **DeepSeek-V4.1-Flash**，采用新的非对称 Causal Encoder–Decoder 架构，并加入原生视觉理解能力。DeepSeek 的研究范围已经从纯文本基础模型逐渐扩展至 Agent、长上下文和多模态。 |
 
 ---
+</details>
 
 ## 梁文锋本人专访
 
